@@ -1,1 +1,18 @@
-w
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+li {
+    
+    
+    display: inline;
+    text-decoration: none;
+}
+
+h1 {            
+    
+    color: white;
+}
