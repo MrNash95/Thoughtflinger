@@ -1,3 +1,9 @@
+body {
+    
+  background-image: url("http://www.dancemusicnw.com/wp-content/uploads/2014/02/Marquee-Nightclub-Las-Vegas-Porter-Robinson.jpg"
+
+
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -6,8 +12,6 @@ ul {
 }
 
 li {
-    
-    
     display: inline;
     text-decoration: none;
 }
@@ -15,4 +19,15 @@ li {
 h1 {            
     
     color: white;
+}
+
+p { 
+    color: white;
+
+}
+
+#youneed p {
+    color: white;
+    
+    
 }
